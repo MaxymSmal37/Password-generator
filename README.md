@@ -1,6 +1,3 @@
-It seems like you want to create a README file for a Python script that generates passwords using Tkinter. Below is a template for your README:
-
-```markdown
 # Password Generator
 
 This is a simple Python script that generates passwords using Tkinter.
@@ -36,6 +33,3 @@ No installation is required. Just download the `password_generator.py` file and 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `[Your Name]` with your name or preferred attribution. Also, ensure that you include the appropriate `LICENSE` file with your project, containing the licensing details.
